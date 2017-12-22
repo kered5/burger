@@ -1,0 +1,44 @@
+body{
+
+  font-family: 'Special Elite', cursive;
+  background-image: url("http://novemburger.ca/wp-content/uploads/2014/06/BurgerBackground-e1509112997222.jpg?id=995");
+}
+.titleh{
+  background-color: rgba(131, 125, 115, 0.7);
+  color: white;
+  font-size: 25px;
+  border-radius: 10px;
+}
+
+
+
+#burger-gif{
+  max-width: 30%;
+  border-radius: 40px;
+
+}
+
+.burger-label{
+  padding: 5px;
+  margin-bottom: -5px;
+}
+.burger-div{
+  background-color: rgba(187, 115, 21, 0.4);
+  color:white;
+  margin: 10px;
+  border: solid 1px rgb(209, 181, 55);
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 18px;
+}
+.burger-div button{
+  float: right;
+  margin: 5px;
+}
+ h1{
+   color: white;
+ }
+
+ h2{
+   color:white;
+ }
